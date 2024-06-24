@@ -11,8 +11,6 @@ During my junior year in high school, I participated in an exchange program in C
 2. **AP Chemistry**
    - **Description**: Chemistry was a heavy-loaded course that explored the basic fundamentals of chemistry, including thermodynamics, kinetics, equilibrium, acids and bases etc, with the inclusion of lab expiriments.
    - **Skills Acquired**: Besides from chemical knowledge and even more problem-solving skills and graphical analysis, chemistry mainly introduced me to the creation of scientific articles which can be used for any research in the future and team-work abilities, as all of the labs were done by groups of four.
-   - **Lab Example**: <a href="https://1drv.ms/w/c/5db393d852abcec5/EeawYwmcLzpHn8SBJJsogjEBEEPzZwlX9_4v7KL9vlQvaA?e=1BZ0WQ" target="_blank">
-  <img src="https://img.shields.io/badge/View%20File-Click%20Here-brightgreen?style=for-the-badge" alt="View File">
-</a>
+   - **Lab Example**: [Titration Lab](https://1drv.ms/w/c/5db393d852abcec5/EeawYwmcLzpHn8SBJJsogjEBEEPzZwlX9_4v7KL9vlQvaA?e=1BZ0WQ)
  3. **AP Physics C: Mechanics**
     
