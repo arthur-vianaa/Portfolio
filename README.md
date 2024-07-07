@@ -2,7 +2,17 @@
 My portfolio of personal achievements and completed or ongoing projects from Grade 9 until the current days.
 ## Introduction
 Hello! My name is Arthur, I am a current Grade 12 brazilian student applying to undergraduate programs deeply interested in engineering and computer science and will graduate by the end of 2024. In this portfolio, I will briefly discuss about my skills, projects and achievements throughout my high school life. This file is constantly being updated (especially as my coding skills improve). 
-## Exchange Program in Canada
+## Before Junior Year
+Before my junior year, which was marked by my exchange program in Canada, my mind was not as open to new ideas and perspectives as it is nowadays. Although I had initiatives, my old self lacked on the leadership skills that would pop up with the exchange experience, as I will deepen into furthermore - however, a few amount of personal projects and achievements is still recognizable.
+### Brazilian High School
+Differently from other systems, the high school system in Brazil does not let the student choose his own courses - instead, all students take the same 13 courses, regardless of their abilities or preferences. Therefore, my grades at first were not amazingly high (although above average), however kept increasing over time as I learned new studying methods and got more used to the system itself. My school, besides from private sports and courses (meant for people who struggle, not for those who want to deepen their knowledge), I have not taken any school related extracurricular activity from my high school directly. However, there are several other activites I have engaged with.
+### English Course
+From 2015 to 2022, I have taken a full english course in Cultura Inglesa, meaning I have had contact with a second language since I was a child. In total, there were 695 hours of english classes. This allowed me to see and have opportunities, such as participating in the exchange program, and made me, as a kid, way more interested in learning and challenging myself. The course ended in 2022, 
+[Certificate]()
+### Programa de Iniciação Científica Jr. (PIC)
+In 2022, in my sophomore year, I was invited to participate in PIC, an advanced mathematics program for top students heavily interested in math, by my high school teacher. The course was provided and taken by "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo", a federal institute. This course, which was meant to be taken by juniors seniors, made me even more engaged with mathematics, opening my mind for problem-solving and giving me the precalculus skills needed for AP Calculus, which I would take furthermore.
+
+### Exchange Program in Canada
 During my junior year in high school, from September 2023 to June 2024, I participated in an exchange program in Canada, where I had the opportunity to engage into new academic, personal and cultural experiences which changed me forever, including AP courses, learning a new instrument and engaging in intercultural events.
 ### AP Courses Taken
 1. **AP Calculus BC**
@@ -24,3 +34,4 @@ During my junior year in high school, from September 2023 to June 2024, I partic
 ### Other Projects
 1. **Learning a New Instrument**
    - When I was a child, it has always been my dream to play the  electric guitar, and the exchange allowed me not only to fulfill my dream but take it to a whole new manner. Picking up the instrument for the first time when arriving and doing weekly classes allowed me to interact with a whole community of musicians in my community, as I was encouraged to and did indeed join the Jam Club in my high school. From practicing daily and playing with other musicians and hearing a lecture from Dan Mangan, close to the end of the exchange year, I played in a three-member band in what is called the "Evening of the Arts" in front of a real audience, enhancing even more my love with the instrument. I will definitely keep pursuing classes and activites through my senior year and the rest of my life.
+2. **Learning a New Language**
