@@ -2,15 +2,14 @@
 My portfolio of personal achievements and completed or ongoing projects from Grade 9 until the current days.
 ## Introduction
 Hello! My name is Arthur, I am a current Grade 12 brazilian student applying to undergraduate programs deeply interested in engineering and computer science and will graduate by the end of 2024. In this portfolio, I will briefly discuss about my skills, projects and achievements throughout my high school life. This file is constantly being updated (especially as my coding skills improve). 
-## Before Junior Year
-Before my junior year, which was marked by my exchange program in Canada, my mind was not as open to new ideas and perspectives as it is nowadays. Although I had initiatives, my old self lacked on the leadership skills that would pop up with the exchange experience, as I will deepen into furthermore - however, a few amount of personal projects and achievements is still recognizable.
-### Brazilian High School
-Differently from other systems, the high school system in Brazil does not let the student choose his own courses - instead, all students take the same 13 courses, regardless of their abilities or preferences. Therefore, my grades at first were not amazingly high (although above average), however kept increasing over time as I learned new studying methods and got more used to the system itself. My school, besides from private sports and courses (meant for people who struggle, not for those who want to deepen their knowledge), I have not taken any school related extracurricular activity from my high school directly. However, there are several other activites I have engaged with.
-### English Course
-From 2015 to 2022, I have taken a full english course in Cultura Inglesa, meaning I have had contact with a second language since I was a child. In total, there were 695 hours of english classes. This allowed me to see and have opportunities, such as participating in the exchange program, and made me, as a kid, way more interested in learning and challenging myself. The course ended in 2022, 
+## Early High School Years
+### Brazilian Curriculum
+I engaged into a 13-course curriculum, developing strong foundational skills across diverse subjects and areas while also improving grades over the course of years by adopting new study methods and adapting to the high-demanding educational system.
+### Cultura Inglesa (2015-2022): 
+I have completed a comprehensive English course (695 hours), starting in my early childhood, enhancing my language skills and opening opportunities for international experiences.
 [Certificate]()
 ### Programa de Iniciação Científica Jr. (PIC)
-In 2022, in my sophomore year, I was invited to participate in PIC, an advanced mathematics program for top students heavily interested in math, by my high school teacher. The course was provided and taken by "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo", a federal institute. This course, which was meant to be taken by juniors seniors, made me even more engaged with mathematics, opening my mind for problem-solving and giving me the precalculus skills needed for AP Calculus, which I would take furthermore.
+In 2022, I have been invited to an advanced mathematics program at a federal institution, enhancing my pre-calculus skills necessary to furtherly take Calculus and be profecient in math.
 
 ### Exchange Program in Canada
 During my junior year in high school, from September 2023 to June 2024, I participated in an exchange program in Canada, where I had the opportunity to engage into new academic, personal and cultural experiences, which changed me forever, including AP courses, learning a new instrument and engaging in intercultural events. As stated in my [personal essay](), the immersion into this new environment sparkled leadership skills and a high capacity for adaptation.
