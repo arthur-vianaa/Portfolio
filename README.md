@@ -11,10 +11,11 @@ I have completed a comprehensive English course (695 hours), starting in my earl
 ### Programa de Iniciação Científica Jr. (PIC)
 In 2022, I have been invited to an advanced mathematics program at a federal institution, enhancing my pre-calculus skills necessary to furtherly take Calculus and be profecient in math.
 
-### Exchange Program in Canada
-During my junior year in high school, from September 2023 to June 2024, I participated in an exchange program in Canada, where I had the opportunity to engage into new academic, personal and cultural experiences, which changed me forever, including AP courses, learning a new instrument and engaging in intercultural events. As stated in my [personal essay](), the immersion into this new environment sparkled leadership skills and a high capacity for adaptation.
+## Exchange Program in Canada
+During my junior year in high school, from September 2023 to June 2024, I participated in an exchange program in Canada, where I had the opportunity to engage into new academic, personal and cultural experiences, which changed me forever, including AP courses, learning a new instrument and engaging in intercultural events. As stated in my [personal essay](), the immersion into this new environment sparkled leadership skills and a high capacity for adaptation. 
+
 ### AP Courses Taken
-In order to challenge myself academically, I took five Advanced Placement courses avaliable in my school, earning the AP Scholar Award with Distinction. This allowed me to engage with college-level contents and challenge me.
+In order to challenge myself academically, I took five Advanced Placement courses avaliable in my school, earning the [AP Scholar Award with Distinction](). This allowed me to engage with college-level contents and challenge me vehemently.
 1. **AP Calculus BC**
    - **Description**: With this course, I have engaged, for the first time, in differential and integral calculus, including limits, derivatives, integrals, polar functions, Taylor Series and others.
    - **Skills Acquired**: Calculus was the main course that opened my mind with problem-solving abilities and capacity of interdisciplinary asssociating other fields to mathematics (such as the entirety of mechanics, kinetics, populational growth and decay etc), besides of the enhancement of previous mathematical skills.
@@ -32,7 +33,7 @@ In order to challenge myself academically, I took five Advanced Placement course
     - **Description**: This course came as an idea throughout the beginning of the second semester, by me and a friend, who wanted to challenge ourselves with an advanced humanities course while also taking all the other STEM advanced classes. Being tutored by our teacher individually, not only we explored concepts of european history from the period of the renaissance to modern ages but also learned about the historical thinking skills of comparasion, document analysis, continuity and change over time, contextualization and causation, required for the two essays required in the exam.
     - **Skills Acquired**: Besides from the skills previously mentioned, this course allowed me to see the world and its problems through a new historical perspective, enhanced strongly my writing and interpretative skills in a second language, deeply expanding my vocabulary and overall knowledge.
 ### Other Projects
-1. **Learning a New Instrument**
-   - When I was a child, it has always been my dream to play the  electric guitar, and the exchange allowed me not only to fulfill my dream but take it to a whole new manner. Picking up the instrument for the first time when arriving and doing weekly classes allowed me to interact with a whole community of musicians in my community, as I was encouraged to and did indeed join the Jam Club in my high school. From practicing daily and playing with other musicians and hearing a lecture from Dan Mangan, close to the end of the exchange year, I played in a three-member band in what is called the "Evening of the Arts" in front of a real audience, enhancing even more my love with the instrument. I will definitely keep pursuing classes and activites through my senior year and the rest of my life.
+1. **Music and Community Engagement**
+   - Fulfilled a childhood dream by learning how to play the electrical guitar, joining the Jam Club, performing in a band and engaging with the local music community. I definetly expect to use my musical skills in college.
 2. **Learning a New Language**
    - Besides from the AP courses, I wanted to emerge myself into a third language
