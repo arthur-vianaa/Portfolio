@@ -38,6 +38,7 @@ In order to challenge myself academically and take as much as I could from my ac
 5. **AP European History**
     - **Description**: Being tutored by my teacher individually, this semester-long course introduced me to historical thinking skills and the Modern History of Europe in a college level.
     - **Skills Acquired**: Gain of historical perspective, english improvements, critical thinkinh abilities.
+    - **Score**: 3
 ### Other Projects
 1. **Music and Community Engagement**
    - Fulfilled a childhood dream by learning how to play the electrical guitar, joining the Jam Club, performing in a band and engaging with the local music community. I definetly expect to use my gained musical abilities in college.
