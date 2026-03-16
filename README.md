@@ -1,10 +1,7 @@
 # Arthur's Portfolio
-My portfolio of personal achievements and completed or ongoing projects from Grade 9 until the current days.
+My portfolio of personal achievements and completed or ongoing projects from Grade 9 to the current days.
 ## Introduction
-Hello! My name is Arthur, I am a current Grade 12 brazilian student applying to undergraduate programs deeply interested in engineering and computer science and will graduate by the end of 2024. In this portfolio, I will briefly discuss about my skills, projects and achievements throughout my high school life. This file is constantly being updated (especially as my coding skills improve). 
-## Early High School Years
-### Brazilian Curriculum
-I engaged into a 13-course curriculum, developing strong foundational skills across diverse subjects and areas while also improving grades over the course of years by adopting new study methods and adapting to the high-demanding educational system.
+My name is Arthur, I am a current computer engineer brazilian student. In this portfolio, I will briefly discuss about my skills, projects and achievements throughout my high school and in-campus life. This file will be updated through time (especially as my coding skills improve). 
 ### Cultura Inglesa (2015-2022): 
 I have completed a comprehensive English course (695 hours), starting in my early childhood, enhancing my language skills and opening opportunities for international experiences.
 [Certificate]()
@@ -41,7 +38,7 @@ In order to challenge myself academically and take as much as I could from my ac
     - **Score**: 3
 ### Other Projects
 1. **Music and Community Engagement**
-   - Fulfilled a childhood dream by learning how to play the electrical guitar, joining the Jam Club, performing in a band and engaging with the local music community. I definetly expect to use my gained musical abilities in college.
+   - Fulfilled a childhood dream by learning how to play the electrical guitar, joining the Jam Club, performing in a band and engaging with the local music community. Moreover, I have individually studied music theory in my free time and plan to use it in a future band. 
 2. **Learning a New Language**
    - Besides from the AP courses, I challenged myself by taking a french grade 6 entry class, getting completely out of my comfort zone as I only had six previous months of experience and had to adapt to a new environment.
 3. **Participation Cultural Clubs**
@@ -49,9 +46,3 @@ In order to challenge myself academically and take as much as I could from my ac
 4. **Participation in STEM Club**
    - I have engaged into a high altitude balloon project alongside the STEM club at my high school.
 
-## Grade 12 
-After taking part in so many new experiences and challenges, after heading back home, I wanted to bring (...)
-### Creation of a first STEM Club
-### ITA course
-### CS50
-### POTI
