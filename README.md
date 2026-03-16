@@ -1,7 +1,7 @@
 # Arthur's Portfolio
 My portfolio of personal achievements and completed or ongoing projects from Grade 9 to the current days.
 ## Introduction
-My name is Arthur, I am a current computer engineer brazilian student. In this portfolio, I will briefly discuss about my skills, projects and achievements throughout my high school and in-campus life. This file will be updated through time (especially as my coding skills improve). 
+My name is Arthur, I am a current computer engineer brazilian student at Universidade Federal do Espírito Santo. In this portfolio, I will briefly discuss about my skills, projects and achievements throughout my high school and in-campus life. This file will be updated through time (especially as my coding skills improve). 
 ### Cultura Inglesa (2015-2022): 
 I have completed a comprehensive English course (695 hours), starting in my early childhood, enhancing my language skills and opening opportunities for international experiences.
 [Certificate]()
