@@ -1,48 +1,165 @@
 # Arthur's Portfolio
-My portfolio of personal achievements and completed or ongoing projects from Grade 9 to the current days.
+
+Portfolio of academic achievements, international experiences, and technical development from high school to the present.
+
+---
+
 ## Introduction
-My name is Arthur, I am a current computer engineer brazilian student at Universidade Federal do Espírito Santo. In this portfolio, I will briefly discuss about my skills, projects and achievements throughout my high school and in-campus life. This file will be updated through time (especially as my coding skills improve). 
-### Cultura Inglesa (2015-2022): 
-I have completed a comprehensive English course (695 hours), starting in my early childhood, enhancing my language skills and opening opportunities for international experiences.
-[Certificate]()
-### Programa de Iniciação Científica Jr. (PIC)
-In 2022, I have been invited to an advanced mathematics program at a federal institution, enhancing my pre-calculus skills necessary to furtherly take Calculus and be profecient in math.
-### Private French Lessons
-In the first semester of 2023, before my exchange program, I have taken french lessons with a private teacher, with a total of 108 hours of classes and giving me a base for my third language.
 
-## Exchange Program in Canada
-During my junior year in high school, from September 2023 to June 2024, I participated in an exchange program in Canada, where I had the opportunity to engage into new academic, personal and cultural experiences, which changed me forever, including AP courses, learning a new instrument and engaging in intercultural events. As stated in my [personal essay](), the immersion into this new environment sparkled leadership skills and a high capacity for adaptation. 
+My name is Arthur Viana, and I am currently pursuing a degree in Computer Engineering at Universidade Federal do Espírito Santo (UFES). This portfolio presents a summary of my academic background, international experiences, technical interests, and projects developed throughout high school and university. It will continue to be updated as I expand my skills and professional experience.
 
-### AP Courses Taken
-In order to challenge myself academically and take as much as I could from my academic year in Canada, I took five Advanced Placement courses avaliable in my school, earning the [AP Scholar Award with Distinction](). This allowed me to engage with college-level contents and challenge me vehemently.
-1. **AP Calculus BC**
-   - **Description**: This course introduced me to differential and integral calculus, equivalent to the college classes of Calculus I and II. 
-   - **Skills Acquired**: Problem-solving abilities and capacity of interdisciplinary asssociating other fields to mathematics and enhancement of previous mathematical skills.
-   - **Score**: 5
-2. **AP Chemistry**
-   - **Description**: This course deepend my chemistry knowledge and introduced me to laboratory samples.
-   - **Skills Acquired**: Chemical knowledge, problem-solving skills, data analysis, creation of scientific articles, twam-work abilities.
-   - **Lab Example**: [Titration Lab](https://1drv.ms/w/c/5db393d852abcec5/EeawYwmcLzpHn8SBJJsogjEBEEPzZwlX9_4v7KL9vlQvaA?e=1BZ0WQ): This lab had the purpose of titrating NaOH in a solution of two different acidic compounds to determine their concentrations and mass percentage in the solution.
-   - **Score**: 4
- 3. **AP Physics C: Mechanics**
-    - **Description**: This semester-long course explored Mechanics in a calculus-based approach.
-    - **Skills Acquired**: Enhancing of calculus skills, high teamwork abilities, leadership skills.
-    - **Score**: 3
-4. **AP Physics C: Electricity & Magnetism**
-    - **Description**: Followed by mechanics, this semester-long course also required calculus knowledge, even more than the previous one, exploring the fields of eletromagnetism.
-    - **Skills Acquired**: Enhancing of calculus skills, teamwork abilities, data analysis, problem-solving abilities.
-    - **Score**: 3
-5. **AP European History**
-    - **Description**: Being tutored by my teacher individually, this semester-long course introduced me to historical thinking skills and the Modern History of Europe in a college level.
-    - **Skills Acquired**: Gain of historical perspective, english improvements, critical thinkinh abilities.
-    - **Score**: 3
-### Other Projects
-1. **Music and Community Engagement**
-   - Fulfilled a childhood dream by learning how to play the electrical guitar, joining the Jam Club, performing in a band and engaging with the local music community. Moreover, I have individually studied music theory in my free time and plan to use it in a future band. 
-2. **Learning a New Language**
-   - Besides from the AP courses, I challenged myself by taking a french grade 6 entry class, getting completely out of my comfort zone as I only had six previous months of experience and had to adapt to a new environment.
-3. **Participation Cultural Clubs**
-   - I have participated in as many cultural events as possible, representing Brazil and engaging with peoples from all distinct parts of the world.
-4. **Participation in STEM Club**
-   - I have engaged into a high altitude balloon project alongside the STEM club at my high school.
+---
 
+# Academic Background
+
+## English Studies — Cultura Inglesa (2015–2022)
+
+- Completed a comprehensive English program totaling approximately **695 hours** of study.
+- Developed strong academic and professional communication skills in English.
+- Prepared for international academic experiences and advanced coursework abroad.
+
+- [Certificate](#)
+
+---
+
+## Programa de Iniciação Científica Jr. (PIC)
+
+- Invited in 2022 to participate in an advanced mathematics enrichment program at a federal institution.
+- Strengthened mathematical foundations in:
+  - Algebra
+  - Pre-Calculus
+  - Analytical Reasoning
+- Developed preparation for higher-level STEM studies.
+
+---
+
+## French Elective Coursework
+
+- During my exchange program in Canada (2023–2024), I enrolled in a Grade 6 French course as an elective subject.
+- Developed foundational proficiency in French.
+- Improved adaptability in multilingual and multicultural academic environments.
+
+---
+
+# Exchange Program in Canada (2023–2024)
+
+From September 2023 to June 2024, I participated in an academic exchange program in Canada during my junior year of high school. The experience exposed me to a highly diverse and challenging academic environment, where I developed stronger leadership, communication, and adaptability skills through advanced coursework and intercultural activities.
+
+As discussed in my [personal essay](#), this experience significantly influenced both my academic growth and personal development.
+
+---
+
+# Advanced Placement (AP) Courses
+
+To maximize the academic opportunities available during the exchange program, I enrolled in five Advanced Placement courses and earned the [AP Scholar Award with Distinction](https://apstudents.collegeboard.org/awards-recognitions/ap-scholar-award). These courses introduced me to college-level content across mathematics, science, and humanities.
+
+---
+
+## AP Calculus BC
+
+- **Description:**  
+  College-level differential and integral calculus, equivalent to Calculus I and II.
+
+- **Skills Developed:**
+  - Mathematical reasoning
+  - Analytical problem-solving
+  - Interdisciplinary thinking
+
+- **Score:** 5
+
+---
+
+## AP Chemistry
+
+- **Description:**  
+  Advanced chemistry course with laboratory experimentation and scientific analysis.
+
+- **Skills Developed:**
+  - Data analysis
+  - Scientific writing
+  - Teamwork
+  - Laboratory techniques
+
+- **Lab Example:**  
+  [Titration Lab](https://1drv.ms/w/c/5db393d852abcec5/EeawYwmcLzpHn8SBJJsogjEBEEPzZwlX9_4v7KL9vlQvaA?e=1BZ0WQ)
+
+- **Score:** 4
+
+---
+
+## AP Physics C: Mechanics
+
+- **Description:**  
+  Calculus-based introduction to classical mechanics.
+
+- **Skills Developed:**
+  - Applied calculus
+  - Collaborative problem-solving
+  - Leadership
+
+- **Score:** 3
+
+---
+
+## AP Physics C: Electricity & Magnetism
+
+- **Description:**  
+  Calculus-based study of electromagnetism and electrical systems.
+
+- **Skills Developed:**
+  - Mathematical modeling
+  - Analytical reasoning
+  - Teamwork
+
+- **Score:** 3
+
+---
+
+## AP European History
+
+- **Description:**  
+  College-level study of European history and historical analysis.
+
+- **Skills Developed:**
+  - Critical thinking
+  - Academic writing
+  - Historical interpretation
+
+- **Score:** 3
+
+---
+
+# Extracurricular and STEM Activities
+
+## STEM Club Participation
+
+- Participated in a high-altitude balloon project through the STEM Club at my high school.
+- Collaborated on engineering and scientific activities related to atmospheric data collection and experimentation.
+
+---
+
+## Cultural and International Engagement
+
+- Participated in intercultural activities and events during the exchange program.
+- Represented Brazil while collaborating with students from diverse cultural backgrounds.
+- Strengthened:
+  - Communication skills
+  - Adaptability
+  - Global perspective
+
+---
+
+# Current Interests
+
+- Computer Engineering
+- Software Development
+- Backend Development
+- Mathematics and Physics
+- Scientific and Analytical Problem Solving
+
+---
+
+# Contact
+
+- **GitHub:** https://github.com/arthur-vianaa
+- **Email:** arthur.viana262@gmail.com
