@@ -35,7 +35,7 @@ My name is Arthur Viana, and I am currently pursuing a degree in Computer Engine
 
 ## French Elective Coursework
 
-- During my exchange program in Canada (2023–2024), I enrolled in a Grade 6 French course as an elective subject.
+- During my exchange program in Canada (2023–2024), I enrolled in a Grade 6 French course as an elective subject. Thoughout university I've further developed my skills by taking elective classes.
 - Developed foundational proficiency in French.
 - Improved adaptability in multilingual and multicultural academic environments.
 
@@ -162,4 +162,7 @@ To maximize the academic opportunities available during the exchange program, I 
 # Contact
 
 - **GitHub:** https://github.com/arthur-vianaa
-- **Email:** arthur.viana262@gmail.com
+- **Emails:**
+  - **Personal**: arthur.viana262@gmail.com
+  - **University**: arthur.m.viana@edu.ufes.br
+  - **CT Junior**: arthur.viana@ctjunior.com.br
