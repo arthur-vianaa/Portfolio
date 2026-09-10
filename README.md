@@ -167,4 +167,4 @@ To maximize the academic opportunities available during the exchange program, I 
   - **University**: arthur.m.viana@edu.ufes.br
   - **CT Junior**: arthur.viana@ctjunior.com.br
   - **LinkedIn**:
-https://linkedin.com/in/arthur-marques-viana
+https://www.linkedin.com/in/arthur-marques-viana-24bb903a6
